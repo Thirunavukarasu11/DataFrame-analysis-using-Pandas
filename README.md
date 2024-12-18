@@ -66,3 +66,10 @@ This project demonstrates the use of **Pandas**, a robust Python library, to per
 - Install required libraries:
   ```bash
   pip install pandas numpy matplotlib seaborn openpyxl
+
+## **How to Use**
+1. Place your dataset in the **data/** folder.
+2. Run the script or notebook file:
+   ```bash
+   python dataframe_analysis.py
+
